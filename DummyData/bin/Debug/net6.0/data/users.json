@@ -1,0 +1,92 @@
+[
+  {
+    "Id": 1,
+    "FirstName": "Jane",
+    "lastName": "Smith",
+    "email": "jane.smith@example.com",
+    "dateOfBirth": "1990-11-23",
+    "city": "Somewhere",
+    "state": "TX"
+  },
+  {
+    "Id": 2,
+    "FirstName": "John",
+    "lastName": "Doe",
+    "email": "john.doe@example.com",
+    "dateOfBirth": "1985-06-15",
+    "city": "Anytown",
+    "state": "CA"
+  },
+  {
+    "Id": 3,
+    "FirstName": "Alice",
+    "lastName": "Johnson",
+    "email": "alice.johnson@example.com",
+    "dateOfBirth": "1992-04-30",
+    "city": "Wonderland",
+    "state": "NY"
+  },
+  {
+    "Id": 4,
+    "FirstName": "Bob",
+    "lastName": "Brown",
+    "email": "bob.brown@example.com",
+    "dateOfBirth": "1988-12-25",
+    "city": "Smallville",
+    "state": "KS"
+  },
+  {
+    "Id": 5,
+    "FirstName": "Charlie",
+    "lastName": "Davis",
+    "email": "charlie.davis@example.com",
+    "dateOfBirth": "1979-08-19",
+    "city": "Metropolis",
+    "state": "IL"
+  },
+  {
+    "Id": 6,
+    "FirstName": "Diana",
+    "lastName": "Wilson",
+    "email": "diana.wilson@example.com",
+    "dateOfBirth": "1995-03-22",
+    "city": "Gotham",
+    "state": "NJ"
+  },
+  {
+    "Id": 7,
+    "FirstName": "Edward",
+    "lastName": "Moore",
+    "email": "edward.moore@example.com",
+    "dateOfBirth": "1983-07-14",
+    "city": "Star City",
+    "state": "WA"
+  },
+  {
+    "Id": 8,
+    "FirstName": "Fiona",
+    "lastName": "Taylor",
+    "email": "fiona.taylor@example.com",
+    "dateOfBirth": "1986-10-05",
+    "city": "Central City",
+    "state": "OH"
+  },
+  {
+    "Id": 9,
+    "FirstName": "George",
+    "lastName": "Harris",
+    "email": "george.harris@example.com",
+    "dateOfBirth": "1991-02-17",
+    "city": "Riverdale",
+    "state": "GA"
+  },
+  {
+    "Id": 10,
+    "FirstName": "Hannah",
+    "lastName": "Clark",
+    "email": "hannah.clark@example.com",
+    "dateOfBirth": "1984-09-09",
+    "city": "Pawnee",
+    "state": "IN"
+  }
+]
